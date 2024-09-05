@@ -1,4 +1,4 @@
 # BDA594-Surangijay
 ## Surangi Jayasinghe 
-### (https://sdsu.instructure.com/courses/162125)
+### BDA/GEOG594: (https://sdsu.instructure.com/courses/162125)
 #### Big data to me means collecting large datasets from mulitple sources and the process of analyzing and deriving important information. 
